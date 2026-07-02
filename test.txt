@@ -1,0 +1,17 @@
+name, subject, marks
+mewan, math, 85
+mewan, science, 90
+alice, math, 78
+alice, science, 88
+bob, math, 92
+bob, science, 81
+charlie, math, 87
+charlie, science, 79
+david, math, 95
+david, science, 89
+eva, english, 91
+eva, history, 84
+frank, english, 76
+frank, history, 80
+grace, english, 88
+grace, history, 92
